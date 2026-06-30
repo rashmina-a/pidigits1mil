@@ -1,4 +1,4 @@
-# piDigit1Mil benchmark
+# PiDigit1Mil benchmark
 This python program can be ran on any device that can run python and it can benchmark your device and give the time it took to generate the first 1 million digits of Pi.For comparison on my laptop with **16GB RAM**, **Ryzen 5 3500U CPU**, and **Vega 8 integrated graphics** It took **22.88** seconds :-
 <img width="1090" height="286" alt="20260630155257" src="https://github.com/user-attachments/assets/0e18089e-5b5d-4aec-8ceb-bf8fffb12614" />
 # How to install
