@@ -1,1 +1,1 @@
-mpmath
+mpmath cupy
