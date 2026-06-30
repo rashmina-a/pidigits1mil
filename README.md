@@ -17,3 +17,7 @@ If you encounter any commands returning the error to create a python virtual env
 
 Replace python with the suitable version if your from the future ⌚️ 
 Dont forget to leave a star ⭐️ to support the project
+
+# Version 2.0
+✨️ GPU support for Nvidia GPU Only
+✨️ Added new Banner 
